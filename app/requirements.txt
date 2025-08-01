@@ -1,0 +1,7 @@
+flask
+scikit-learn==1.5.1
+joblib
+numpy
+psycopg2-binary
+pydantic
+gunicorn==21.2.0
